@@ -1,6 +1,8 @@
 # Javascript-Challenge
-https://lmoo<img width="1059" alt="Screenshot 2023-11-05 at 2 19 13 PM" src="https://github.com/lmoore5460/Belly-Button-Challenge/assets/135261756/a88504e1-834b-4fba-9658-3632e8c94174">
-re5460.github.io/Belly-Button-Challenge/ 
+https://lmoore5460.github.io/Belly-Button-Challenge/
+<img width="1059" alt="Screenshot 2023-11-05 at 2 19 13 PM" src="https://github.com/lmoore5460/Belly-Button-Challenge/assets/135261756/b49505ff-9593-47e7-9d14-27d4bb36b60d">
+
+
 
 
 
